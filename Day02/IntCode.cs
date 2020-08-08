@@ -10,7 +10,7 @@ namespace AdventOfCode2019.Day02
         private int _iterator = 0;
         private int _result = 0;
 
-        public IntCode(List<string> input)
+        public IntCode(List<string> input, int noun, int verb)
         {
             _sequence = new int[input.Count];
 
@@ -19,8 +19,8 @@ namespace AdventOfCode2019.Day02
                 _sequence[i] = Convert.ToInt32(input[i]);
             }
 
-            _sequence[1] = 12;
-            _sequence[2] = 2;
+            _sequence[1] = noun;
+            _sequence[2] = verb;
         }
 
         public int Run()
