@@ -1,0 +1,12 @@
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.exe
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.deps.json
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.runtimeconfig.json
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.runtimeconfig.dev.json
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.dll
+E:\Prog\AdventOfCode2019\AdventOfCode2019\bin\Release\netcoreapp3.1\AdventOfCode2019.pdb
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.AssemblyInfoInputs.cache
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.AssemblyInfo.cs
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.csproj.CoreCompileInputs.cache
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.dll
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.pdb
+E:\Prog\AdventOfCode2019\AdventOfCode2019\obj\Release\netcoreapp3.1\AdventOfCode2019.genruntimeconfig.cache
